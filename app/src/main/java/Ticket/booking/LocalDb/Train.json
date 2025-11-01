@@ -1,0 +1,32 @@
+[ {
+  "trainId" : "T123",
+  "trainNo" : "12345",
+  "seats" : [ [ 1, 1, 1, 1, 1 ], [ 1, 1, 1, 0, 0 ], [ 0, 0, 0, 0, 0 ] ],
+  "stationTimes" : {
+    "kakinada" : "08:00 AM",
+    "rajahmundry" : "09:00 AM",
+    "vijayawada" : "12:00 AM",
+    "hyderabad" : ":1:00 PM"
+  },
+  "stations" : [ "kakinada", "rajahmundry", "vijayawada", "hyderabad" ]
+}, {
+  "trainId" : "T456",
+  "trainNo" : "45678",
+  "seats" : [ [ 1, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ],
+  "stationTimes" : {
+    "vizag" : "10:00 AM",
+    "kakinada" : "11:00 AM",
+    "tirupati" : "12:00 PM"
+  },
+  "stations" : [ "vizag", "kakinada", "tirupati" ]
+}, {
+  "trainId" : "T789",
+  "trainNo" : "78912",
+  "seats" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ],
+  "stationTimes" : {
+    "kakinada" : "02:00 PM",
+    "rajahmundry" : "03:00 PM",
+    "vijayawada" : "08:00 PM"
+  },
+  "stations" : [ "kakinada", "rajahmundry", "vijayawada" ]
+} ]

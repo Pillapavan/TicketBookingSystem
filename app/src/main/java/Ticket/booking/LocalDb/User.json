@@ -1,0 +1,49 @@
+[ {
+  "userName" : "Pavan",
+  "hashedPassword" : "$2a$10$oxJvIaD.ASsujUgmJVblLO2kUbfrhLFuIV5pUtslrruikJhWlRJfy",
+  "ticketsBooked" : [ {
+    "ticketId" : "1762009912259-3104",
+    "userId" : "fa337e85-4ecd-4077-b16d-1fa319a51ddb",
+    "source" : "kakinada",
+    "destination" : "hyderabad",
+    "dateOfTravel" : "2025-11-02",
+    "seatNo" : [ 1, 3 ],
+    "train" : {
+      "trainId" : "T123",
+      "trainNo" : "12345",
+      "seats" : [ [ 1, 1, 1, 1, 1 ], [ 1, 1, 1, 1, 0 ], [ 0, 0, 0, 0, 0 ] ],
+      "stationTimes" : {
+        "kakinada" : "08:00 AM",
+        "rajahmundry" : "09:00 AM",
+        "vijayawada" : "12:00 AM",
+        "hyderabad" : ":1:00 PM"
+      },
+      "stations" : [ "kakinada", "rajahmundry", "vijayawada", "hyderabad" ]
+    }
+  }, {
+    "ticketId" : "1762010297405-8793",
+    "userId" : "fa337e85-4ecd-4077-b16d-1fa319a51ddb",
+    "source" : "kakinada",
+    "destination" : "hyderabad",
+    "dateOfTravel" : "2025-11-02",
+    "seatNo" : [ 1, 3 ],
+    "train" : {
+      "trainId" : "T123",
+      "trainNo" : "12345",
+      "seats" : [ [ 1, 1, 1, 1, 1 ], [ 1, 1, 1, 1, 0 ], [ 0, 0, 0, 0, 0 ] ],
+      "stationTimes" : {
+        "kakinada" : "08:00 AM",
+        "rajahmundry" : "09:00 AM",
+        "vijayawada" : "12:00 AM",
+        "hyderabad" : ":1:00 PM"
+      },
+      "stations" : [ "kakinada", "rajahmundry", "vijayawada", "hyderabad" ]
+    }
+  } ],
+  "userId" : "fa337e85-4ecd-4077-b16d-1fa319a51ddb"
+}, {
+  "userName" : "Tataji",
+  "hashedPassword" : "$2a$10$1TpcTHYDlnDOA.fN4g0Wt.nOLpDARk2YIFq1PwyLYqUUoWdfdOLPq",
+  "ticketsBooked" : [ ],
+  "userId" : "6fb8f6ed-ea9a-4ba1-a22b-577171378212"
+} ]
